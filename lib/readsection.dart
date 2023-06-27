@@ -57,17 +57,17 @@ class BranchDetailPage extends StatelessWidget {
       details = '''
         Computer Engineering is a discipline that combines elements of electrical engineering and computer science to design, develop, and maintain computer systems and their components. It encompasses a wide range of topics, including computer hardware, software engineering, digital systems, computer architecture, and more. Here's an overview of different aspects of computer engineering:
 
-1. **Job Opportunities**: Computer engineering offers a diverse range of job opportunities in various sectors, including:
+1. Job Opportunities: Computer engineering offers a diverse range of job opportunities in various sectors, including:
 
-   - **Hardware Engineering**: Involves designing and developing computer hardware components such as processors, memory systems, circuit boards, and peripherals.
-   - **Software Engineering**: Focuses on developing software applications, operating systems, and embedded systems for various devices and platforms.
-   - **Network Engineering**: Involves designing and managing computer networks, including routers, switches, and communication protocols.
-   - **Systems Engineering**: Deals with integrating hardware and software components to create complex computer systems and architectures.
-   - **Embedded Systems**: Involves designing and developing computer systems integrated into other devices, such as microcontrollers used in cars, appliances, and medical equipment.
-   - **Data Science and Artificial Intelligence**: Involves utilizing data analysis, machine learning, and AI techniques to extract insights and develop intelligent systems.
-   - **Cybersecurity**: Focuses on protecting computer systems and networks from unauthorized access, attacks, and data breaches.
+   - Hardware Engineering**: Involves designing and developing computer hardware components such as processors, memory systems, circuit boards, and peripherals.
+   - Software Engineering**: Focuses on developing software applications, operating systems, and embedded systems for various devices and platforms.
+   - Network Engineering**: Involves designing and managing computer networks, including routers, switches, and communication protocols.
+   - Systems Engineering**: Deals with integrating hardware and software components to create complex computer systems and architectures.
+   - Embedded Systems**: Involves designing and developing computer systems integrated into other devices, such as microcontrollers used in cars, appliances, and medical equipment.
+   - Data Science and Artificial Intelligence**: Involves utilizing data analysis, machine learning, and AI techniques to extract insights and develop intelligent systems.
+   - Cybersecurity**: Focuses on protecting computer systems and networks from unauthorized access, attacks, and data breaches.
 
-2. **Colleges and Universities**: Several renowned institutions offer excellent computer engineering programs. Some of the top-ranked colleges for computer engineering include:
+2. Colleges and Universities: Several renowned institutions offer excellent computer engineering programs. Some of the top-ranked colleges for computer engineering include:
 
    - Massachusetts Institute of Technology (MIT)
    - Stanford University
@@ -82,7 +82,7 @@ class BranchDetailPage extends StatelessWidget {
 
    However, it's important to note that the "best" college depends on individual preferences, location, financial considerations, and other factors. It's recommended to research and consider multiple factors before making a decision.
 
-3. **Skills and Knowledge**: Computer engineering requires a combination of technical and problem-solving skills. Some essential skills for computer engineers include:
+3. Skills and Knowledge: Computer engineering requires a combination of technical and problem-solving skills. Some essential skills for computer engineers include:
 
    - Proficiency in programming languages such as C++, Java, Python, and others.
    - Knowledge of computer architecture, digital logic design, and operating systems.
@@ -92,9 +92,9 @@ class BranchDetailPage extends StatelessWidget {
    - Knowledge of electronics, integrated circuits, and microprocessors.
    - Awareness of cybersecurity principles and best practices.
 
-4. **Salary and Career Growth**: Computer engineering offers excellent salary potential and career growth opportunities. Salaries can vary based on factors such as experience, location, industry, and job role. Generally, computer engineering professionals enjoy competitive salaries and the potential for advancement. As you gain experience and expertise, you can progress to roles such as software architect, systems engineer, network administrator, or technology consultant.
+4. Salary and Career Growth: Computer engineering offers excellent salary potential and career growth opportunities. Salaries can vary based on factors such as experience, location, industry, and job role. Generally, computer engineering professionals enjoy competitive salaries and the potential for advancement. As you gain experience and expertise, you can progress to roles such as software architect, systems engineer, network administrator, or technology consultant.
 
-5. **Emerging Trends**: Computer engineering is a dynamic field with several emerging trends and areas of focus, including:
+5. Emerging Trends: Computer engineering is a dynamic field with several emerging trends and areas of focus, including:
 
    - **Artificial Intelligence and Machine Learning**: Applying AI and ML techniques to various domains, including autonomous vehicles, healthcare, finance, and robotics.
    - **Internet of Things (IoT)**: Developing and managing interconnected systems of devices and sensors for smart homes, cities, and industries.

@@ -94,7 +94,7 @@ class _ChatGPTPageState extends State<AssessmentSection> {
             TextField(
               controller: current,
               decoration: InputDecoration(
-                labelText: 'Enter Your Current Education',
+                labelText: 'Enter your current education...',
                 filled: true,
                 fillColor: Colors.grey[200],
               ),
@@ -102,7 +102,7 @@ class _ChatGPTPageState extends State<AssessmentSection> {
             TextField(
               controller: interest,
               decoration: InputDecoration(
-                labelText: 'Enter your Interest/Hobbies',
+                labelText: 'Enter your Interest/Hobbies...',
                 filled: true,
                 fillColor: Colors.grey[200],
               ),
@@ -110,7 +110,7 @@ class _ChatGPTPageState extends State<AssessmentSection> {
             TextField(
               controller: environment,
               decoration: InputDecoration(
-                labelText: 'Enter your work preference',
+                labelText: 'Enter your work preference...(desk/outdoors/hybrid etc)',
                 filled: true,
                 fillColor: Colors.grey[200],
               ),
@@ -118,7 +118,7 @@ class _ChatGPTPageState extends State<AssessmentSection> {
             TextField(
               controller: skills,
               decoration: InputDecoration(
-                labelText: 'Event your skills',
+                labelText: 'Enter your skills...',
                 filled: true,
                 fillColor: Colors.grey[200],
               ),
